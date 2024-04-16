@@ -1,14 +1,14 @@
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install yfinance
-pip install keras
-pip install streamlit
-pip install scikit-learn
-pip install textblob
-pip install newsapi-python
-pip install statsmodels
-pip install beautifulsoup4
+!pip install pandas
+!pip install numpy
+!pip install matplotlib
+!pip install yfinance
+!pip install keras
+!pip install streamlit
+!pip install scikit-learn
+!pip install textblob
+!pip install newsapi-python
+!pip install statsmodels
+!pip install beautifulsoup4
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
