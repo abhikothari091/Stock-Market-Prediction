@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+matplotlib
+tensorflow
+keras
+streamlit
+scikit-learn
+textblob
+newsapi-python
+statsmodels
+beautifulsoup4
+requests
